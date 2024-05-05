@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Josh9100
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning JavaScript language 
-- 💞️ I’m looking to collaborate on with you, so that you can help me.
+- 💞️ I’m looking to collaborate with you, so that you can help me.
 - 📫 How to reach me ... oluwoleadewunmi10@gmail.com 
 - 😄 
 - ⚡ 
